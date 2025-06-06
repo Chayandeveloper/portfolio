@@ -1,6 +1,6 @@
 import React from 'react'
 import {motion} from "framer-motion";
-import img from "../assets/img2.jpg";
+import img from "../assets/Adobe Express - file.jpg";
 
 const container=(delay)=>({
 hidden:{x: -100, opacity:0},
